@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "dependencies": {
     "launchdarkly-node-server-sdk": "^6.2.0"
